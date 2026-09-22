@@ -1,10 +1,16 @@
+<div align="center">
+      
 # 🔐 PASSWORD-CRACKING-WITH-NETWORKWALKS-TOOLS
 
+![Cybersecurity](https://img.shields.io/badge/Field-Cybersecurity-red)
+![Tool](https://img.shields.io/badge/Tool-Hash%20the%20Calculator-blue)
+![Tool](https://img.shields.io/badge/Password-Cracker-green)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010-lightgrey)
+![Lab](https://img.shields.io/badge/Lab-Educational-orange)
 
+</div>
 
-
-
-
+---
 
 ## 📌 Project Overview
 
@@ -52,11 +58,11 @@ The encrypted PDF provided for the practical was downloaded and prepared for tes
 
 **File used:**
 
-`My Locked PDF3.pdf`
+`My Locked PDF3.pdf`, `My Locked PDF2.pdf`, `My Locked PDF1.pdf`
 
 ### 📸 Locked PDF file before cracking
-
-<img width="1356" height="598" alt="image" src="https://github.com/user-attachments/assets/54e3704b-318a-4db7-a7db-223ae6d0f3e2" />
+PDF3
+<img width="1357" height="598" alt="image" src="https://github.com/user-attachments/assets/308d917c-cd6f-4b08-9bfb-350c8b812a51" />
 
 ---
 

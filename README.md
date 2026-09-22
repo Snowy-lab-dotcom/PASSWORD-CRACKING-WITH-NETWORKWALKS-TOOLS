@@ -1,11 +1,10 @@
-# PASSWORD-CRACKING-WITH-NETWORKWALKS-TOOLS
-
-# 🔐 Password Cracking with Networkwalks Tools
+# 🔐 PASSWORD-CRACKING-WITH-NETWORKWALKS-TOOLS
 
 
 
 
-\
+
+
 
 ## 📌 Project Overview
 
@@ -19,8 +18,6 @@ The practical used two Networkwalks online tools:
 * **Networkwalks Password Cracker** – used to process the extracted hash and recover the password.
 
 The recovered password was then used to verify access to the protected PDF.
-
-> ⚠️ **Ethical Use:** This project was performed in a controlled educational environment using the provided lab file. Password-cracking techniques should only be used on files, systems, or accounts where you have explicit permission.
 
 ---
 
@@ -55,15 +52,11 @@ The encrypted PDF provided for the practical was downloaded and prepared for tes
 
 **File used:**
 
-`My Locked PDF1.pdf`
+`My Locked PDF3.pdf`
 
-### 📸 Screenshot Proof 1
+### 📸 Locked PDF file before cracking
 
-**Insert screenshot here:**
-
-`[SCREENSHOT 1 – Locked PDF file before cracking]`
-
-The screenshot should show the protected PDF or the password prompt demonstrating that the document was locked.
+<img width="1356" height="598" alt="image" src="https://github.com/user-attachments/assets/54e3704b-318a-4db7-a7db-223ae6d0f3e2" />
 
 ---
 
@@ -73,13 +66,9 @@ The **Networkwalks Hash Calculator** was opened in a web browser.
 
 The tool was used to process the protected PDF and extract the password hash.
 
-### 📸 Screenshot Proof 2
+### 📸 Networkwalks Hash Calculator
 
-**Insert screenshot here:**
-
-`[SCREENSHOT 2 – Networkwalks Hash Calculator]`
-
-The screenshot should show the Hash Calculator page and the file upload process.
+<img width="1249" height="596" alt="image" src="https://github.com/user-attachments/assets/d51b4ac7-8f30-4233-9f8b-6f02b22fbb50" />
 
 ---
 
@@ -97,11 +86,9 @@ $pdf$
 
 The complete hash was copied for the next stage. The lab instructions specify that the full hash beginning with `$pdf$` should be copied.
 
-### 📸 Screenshot Proof 3
+### 📸 Generated PDF hash
 
-**Insert screenshot here:**
-
-`[SCREENSHOT 3 – Generated PDF hash]`
+<img width="955" height="555" alt="image" src="https://github.com/user-attachments/assets/7706aeef-4c63-4da1-acec-cc5cd509af7e" />
 
 ---
 
@@ -121,11 +108,9 @@ The **Networkwalks Password Cracker** was opened in the browser.
 
 The extracted PDF hash was entered into the password-cracking tool.
 
-### 📸 Screenshot Proof 4
+### 📸 Password Cracker with the hash entered
 
-**Insert screenshot here:**
-
-`[SCREENSHOT 4 – Password Cracker with the hash entered]`
+<img width="1316" height="610" alt="image" src="https://github.com/user-attachments/assets/9a4db707-d775-405b-8271-60f0fbace1b2" />
 
 ---
 
@@ -135,11 +120,9 @@ The password-cracking process was started.
 
 The tool attempted different passwords against the supplied hash until a matching password was identified.
 
-### 📸 Screenshot Proof 5
+### 📸 Password-cracking process
 
-**Insert screenshot here:**
-
-`[SCREENSHOT 5 – Password-cracking process/result]`
+<img width="1333" height="585" alt="image" src="https://github.com/user-attachments/assets/58375f36-eb2a-4d30-bb37-526d8ba2301e" />
 
 ---
 
@@ -150,16 +133,14 @@ The password was successfully recovered by the Password Cracker.
 The recovered password was:
 
 ```text
-password1
+1qaz2wsx
 ```
 
 The Networkwalks lab instructions identify `password1` as the password used to unlock the protected PDF after the cracking process.
 
-### 📸 Screenshot Proof 6
+### 📸 Recovered password displayed by the Password Cracker
 
-**Insert screenshot here:**
-
-`[SCREENSHOT 6 – Recovered password displayed by the Password Cracker]`
+<img width="1317" height="587" alt="image" src="https://github.com/user-attachments/assets/1ad26813-9953-4672-ae7c-b5c93ccbb400" />
 
 ---
 
@@ -167,11 +148,9 @@ The Networkwalks lab instructions identify `password1` as the password used to u
 
 The recovered password was entered into the protected PDF.
 
-### 📸 Screenshot Proof 7
+### 📸 Password entered into the PDF
 
-**Insert screenshot here:**
-
-`[SCREENSHOT 7 – Password entered into the PDF]`
+<img width="1338" height="582" alt="image" src="https://github.com/user-attachments/assets/91634148-4a60-4b42-bfe5-ba8b3ffaed22" />
 
 ---
 
@@ -181,11 +160,11 @@ The PDF opened successfully after entering the recovered password.
 
 This confirmed that the recovered password was correct and completed the practical workflow.
 
-### 📸 Screenshot Proof 8
+### 📸 Password entered into the PDF
 
-**Insert screenshot here:**
+*<img width="945" height="626" alt="image" src="https://github.com/user-attachments/assets/56946fd2-f28a-45af-a131-2aa17fc18eed" />
 
-`[SCREENSHOT 8 – Successfully opened PDF]`
+Password entered into the PDF
 
 ---
 
@@ -260,3 +239,31 @@ Password-cracking techniques should only be used in authorised environments.
 For this project, the testing was performed against the PDF supplied for the Networkwalks educational practical.
 
 These techniques should **not** be used to access files, accounts, systems, or networks without permission.
+
+---
+
+# 📚 References
+
+* Networkwalks Password Cracking with Networkwalks Tools: [https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/](https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/?utm_source=chatgpt.com)
+* Networkwalks Hash Calculator: [https://networkwalks.com/hash-calculator/](https://networkwalks.com/hash-calculator/?utm_source=chatgpt.com)
+* Networkwalks Password Cracker: [https://networkwalks.com/password-cracker/](https://networkwalks.com/password-cracker/?utm_source=chatgpt.com)
+
+---
+
+## 👤 Author
+
+**Malehloa Seroke**
+Cybersecurity Professional B082
+
+**LinkedIn:** [www.linkedin.com/in/malehloa-seroke](https://www.linkedin.com/in/malehloa-seroke?utm_source=chatgpt.com)
+
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks
+**Week:** 03
+**Project:** Password Cracking with Networkwalks Tools
+**Practice Lab:** Password Cracking with Networkwalks Tools
+**Repository:** GitHub
+
